@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "waste-sorting-e9400",
+  "private_key_id": "252b22c7607d91cb037d06139edd59e9c4d46502",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8+owx0+hFrxN5\nVvU84BdhVxtO6lA2aSu58YxZzdaNdFYhlLbanPdxPkcpzvpgnRS7JhemVatP+wu0\nQHYgD/PZXdyHKG9t/cg5fYjpVuhgS2MUcCh0L0ILqaFfAGPSR3J1J7WA6LjnlOEj\nl1Naa9oEq0szPJWp2i5xGbBKzl3d4Ewr2PCY6l3zBVKq9f/u7Tcu3vtFxqkSw2+Q\nuZEpcBoizgkfzkIXXTvd7xCpVL8nfpk3UKDpEFCpEvD+L87iaC+oHY3i+K8vRvDQ\nvN7hwYTeRTZGZueO30iryFzS7VelGG4JXWN6lTg/5uf9GQW4D48wG4l8dekoQfa5\nWMaOxiZBAgMBAAECggEAAJ2WZnI8E4/d1I91mZY6CJp+LkzlzXM8yzSJM6YaUAra\n3eMC8GM89zAn5DqpBCwCJtd+3G8zNrhre0caD2c35lDM71PbaZB/S13QS+tz3Yjv\nVKAmfJWREwecB5qr6JHhopYE7FujCw49cxZgNSdMk3HGpd8EFonytzz5VFliiEQM\nPR0kU6sK+jaAg7Ev0SsPQQN1zjJBUbBUlKNe02iXGV+Jt/dQcta8xcB6iFkqZPr9\n8pxZxV/z4vlCW8yuwaJ7NvPPazQL0lONHs/bExR7zlo1ysDfP0aSBJP2IQQ2RbHB\n+OOHtMTEyS2r+8dHb5c+VLwPpGIUG4N2zT7rLKL6QQKBgQDjHbfd94LfkIE0IiVK\n6h8i7zvR1MAC5G5ItvVGi7c9oePZ52UGqMIP3HoZcDAcjBpNS0+HeXLSavvLKZMS\nEjg9ptMrl3txWfl6L937s7jeXgw9cIoT4rqUEH+LoGtHhWMsw0xWrtsh2FYRgYeX\nQOd9ESqhNdDFE0TmFF1jN44IYQKBgQDVAy4PYrp8wQa1DG8QFJ4BX674lk2B2RyK\ny4kGc/OP3/XXYCT7MTmUf0UB0tmlJ66hyjgnVLcWQIOGZN058mdWl0IYIRw6XQ/4\nJ26s5N0xGlkG3pwYbFS4bQp2ItWozo11EAAyliTMl+76quuwBt43Emdy/4EAfu4l\nmnMghSFp4QKBgQC6F4invH2kt5/WWsAZ0RnwIvvt45ftBsUCmb8BrctYGcU7r6kM\nusw/+NSm8VDKo1WNzc59X9rgZL6p6gfSv9ELWx0eU8HWz/Vl08Dc05b/xSncUdEh\nmB5u4dHQU4JzmOz5KZDsWdu9sKhdMbgrDAhhZuZ6L0E/qZlDuJ4IhOXBIQKBgCA+\nGvq5NwErNpixCR6mAES09wcpuRGui2N264bOhk+A1vWC2BYtnUmc+hUMlWUqXISg\n118cs5nqqf3txo6+4mV4/8gnOt6at5AYZ+hDvDdyhYdEqtwHictgtfSr0St8GG1f\nvqfpkihl1waaWJKMd5Zecso1YpFwpRuMBWEmxagBAoGBAKuHT6Z+M+9Wwcc2qCDI\n0QLdNvNG5o5nu+AI/Hp4a4spVdKlwwm+cO1C/ydGH+Y0HNFuy1yvoe9LFlShsDlO\nDIsM3KXsHqAC/8G4Ag4rGuxhfHIkqO0lmH7oPrYv9wSUtmo0hcfY9XhAcIamlTNA\nhZXXnrpau0HKDdOUQ/slH1jb\n-----END PRIVATE KEY-----\n",
+  "client_email": "raspberry@waste-sorting-e9400.iam.gserviceaccount.com",
+  "client_id": "115791012978716045721",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/raspberry%40waste-sorting-e9400.iam.gserviceaccount.com"
+}
